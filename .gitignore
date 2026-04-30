@@ -1,0 +1,22 @@
+# MATLAB / Simulink
+*.asv
+*.autosave
+*.slxc
+*.mex*
+*.log
+slprj/
+
+# Simulink cache
+*.slxc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
