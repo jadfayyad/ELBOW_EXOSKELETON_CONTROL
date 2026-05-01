@@ -120,25 +120,19 @@ Current simplified design:
 * `results/` – plots and simulation outputs
 
 ---
-
-markdown
 ## ▶️ How to Run
 
 1. Download or clone this repository to your local machine  
-2. Open **MATLAB**  
-3. Navigate to the project root folder:
-elbow-exoskeleton-control/
+2. Open MATLAB  
+3. Navigate to the project root folder: `elbow-exoskeleton-control/`
+4. Run the initialization script: `init_project`
+5. Open the simulation model: `simulations/simulink_full_model.slx` or `simulations/simscape_full_model.slx`
+6. Run the simulation by clicking Run (▶) inside Simulink
 
-text
-4. Run the initialization script:
-```matlab
-init_project
-Open the simulation model:
-
-simulations/simulink_full_model.slx
-
-or simulations/simscape_full_model.slx
-
+## Future Work
+- Implementation on embedded system (STM32)
+- Real hardware validation
+- Improved human-machine interaction
 Run the simulation by clicking Run (▶) inside Simulink
 ##  Future Work
 
