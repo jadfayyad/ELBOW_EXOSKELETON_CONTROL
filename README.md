@@ -121,6 +121,7 @@ Current simplified design:
 
 ---
 
+markdown
 ## ▶️ How to Run
 
 1. Download or clone this repository to your local machine  
@@ -139,7 +140,6 @@ simulations/simulink_full_model.slx
 or simulations/simscape_full_model.slx
 
 Run the simulation by clicking Run (▶) inside Simulink
-
 ##  Future Work
 
 * Implementation on embedded system (STM32)
