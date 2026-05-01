@@ -132,7 +132,7 @@ elbow-exoskeleton-control/
 
 4. Run the initialization script:
 ```matlab
-init_project
+init_project```
 5. Open the simulation model:
 simulations/simulink_full_model.slx
 or
