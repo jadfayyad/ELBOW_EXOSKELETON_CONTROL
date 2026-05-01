@@ -136,6 +136,7 @@ Open the simulation model:
 simulations/simulink_full_model.slx
 or
 simulations/simscape_full_model.slx
+
 Click Run (▶) inside Simulink
 
 ---
