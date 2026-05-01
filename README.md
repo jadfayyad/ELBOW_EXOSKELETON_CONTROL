@@ -137,18 +137,7 @@ init_project```
 simulations/simulink_full_model.slx
 or
 simulations/simscape_full_model.slx
-6. Run (▶) inside Simulink## ▶️ How to Run
-
-1. Download or clone this repository to your local machine  
-2. Open **MATLAB**
-
-3. Navigate to the project root folder:
-`elbow-exoskeleton-control/`
-
-4. Run the initialization script:
-
-```matlab
-init_project
+6. Run (▶) inside Simulink## 
 
 
 ##  Future Work
