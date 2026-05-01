@@ -49,9 +49,7 @@ The system is modeled in state-space form with an augmented state vector:
 
 The observer gain is selected based on a higher bandwidth compared to the control system to ensure fast disturbance estimation.
 
-\[
-\omega_{ESO} = 6 \, \omega_c
-\]
+**ω₍ESO₎ = 6 · ω₍c₎**
 
 
 ### Validation
