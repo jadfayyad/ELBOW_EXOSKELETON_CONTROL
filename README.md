@@ -121,32 +121,24 @@ Current simplified design:
 
 ---
 
-How to Run
-Download or clone this repository to your local machine
-Open MATLAB
+## ▶️ How to Run
 
-Navigate to the project root folder:
+1. Download or clone this repository to your local machine  
+2. Open **MATLAB**  
+
+3. Navigate to the project root folder:
 
 elbow-exoskeleton-control/
 
-Run the initialization script:
 
+4. Run the initialization script:
+```matlab
 init_project
-Open the simulation model:
+5. Open the simulation model:
 simulations/simulink_full_model.slx
 or
 simulations/simscape_full_model.slx
-
-Click Run (▶) inside Simulink
-
----
-
-## ⚠️ Note
-
-This repository is part of an ongoing diploma project.
-Reuse, modification, or distribution is not permitted until final publication.
-
----
+6. Click Run (▶) inside Simulink
 
 ##  Future Work
 
