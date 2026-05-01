@@ -6,3 +6,7 @@ This folder contains the theoretical background and design explanation of the ex
 - Control system design
 - Trajectory planning
 - Extended State Observer (ESO)
+
+For complete setup and execution instructions, see the main project documentation:
+
+➡️ [How to Run the Full System](../README.md#%EF%B8%8F-how-to-run)
