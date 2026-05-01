@@ -130,7 +130,6 @@ Current simplified design:
 
 elbow-exoskeleton-control/
 
-
 4. Run the initialization script:
 ```matlab
 init_project
@@ -138,7 +137,8 @@ init_project
 simulations/simulink_full_model.slx
 or
 simulations/simscape_full_model.slx
-6. Click Run (▶) inside Simulink
+6. Run (▶) inside Simulink
+
 
 ##  Future Work
 
