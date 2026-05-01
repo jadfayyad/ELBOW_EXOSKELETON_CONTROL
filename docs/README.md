@@ -4,7 +4,6 @@ This folder contains the theoretical background and design explanation of the ex
 
 - Biomechanics of the elbow joint
 - energy and heat calculation
-- Trajectory planning
 - Extended State Observer (ESO) gains
 
 For complete setup and execution instructions, see the main project documentation:
