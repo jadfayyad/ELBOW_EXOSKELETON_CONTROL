@@ -46,7 +46,7 @@ HIGH LEVEL CONTROL
 
 ## Control Strategy
 
-### Cascaded Control (Каскадная система)
+### Cascaded Loop Control 
 
 A multi-loop control structure is used to ensure:
 
@@ -59,7 +59,8 @@ An ESO is designed to estimate:
 
 * human interaction torque
 
-This allows the system to operate without direct force/torque sensors, simplifying hardware.
+This allows the system to operate without direct force/torque sensors, simplifying hardware and extending
+life and adding an overall  reliability for the assembly 
 
 ---
 
