@@ -19,10 +19,10 @@ The goal is to achieve safe, smooth, and controllable motion while accounting fo
 
 The exoskeleton system consists of:
 
-* Electric motor with transmission
-* Encoder for position feedback
+* Direct drive of the joint using Electromechanical transmission
+* 2 embedded sensors 
 * Phase current sensing
-* Embedded control system
+* Magentic digital encoder
 
 Control structure:
 
